@@ -18,5 +18,5 @@ export default defineConfig({
       ],
     },
   },
-  base: '/spotify-refresh-token/', // right now, the base options being put under /build/ is not working
+  base: '/jstet/spotify-refresh-token/', // right now, the base options being put under /build/ is not working
 });
